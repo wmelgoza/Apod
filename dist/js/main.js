@@ -40,7 +40,6 @@ console.log(result)
    vid.style.display = 'none' 
    
    let img = document.querySelector("#apodImage");
-   console.log(img);
    img.src = result.url;
    img.style.display = 'block';
   }
