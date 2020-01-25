@@ -56,6 +56,7 @@ getRequest: function() {
 init: function() {
   this.getRequest();
 },
+};
 apod.init();
 
 /* https://learn.jquery.com/using-jquery-core/document-ready/ */
